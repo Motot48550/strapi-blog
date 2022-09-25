@@ -29,7 +29,7 @@
     },
     "date": {
       "type": "datetime",
-      "required": false
+      "required": true
     },
     "textWithImage": {
       "type": "component",
