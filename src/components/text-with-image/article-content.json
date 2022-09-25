@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_text_with_image_article_contents",
+  "info": {
+    "displayName": "article content",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "paragraph": {
+      "type": "text",
+      "required": false
+    },
+    "caption": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
